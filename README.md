@@ -2,7 +2,6 @@
 ![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=0077B5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Teenu+Sunny)
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
----
 
 ### 📖 About Me
 Passionate **frontend developer and aspiring data analyst**.  
