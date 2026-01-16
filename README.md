@@ -36,24 +36,15 @@
 ---
 
 ### 🎓 Education & Certifications
-- **Junior Data Analyst Program** – NPower Canada | Toronto, ON *(Oct 2025 – Jan 2026)*  
-- **IBM Data Analyst Professional Certificate** – [Add Completion Date]  
-- **Microsoft Azure AI-900 Fundamentals** – November 2025  
+- **Junior Data Analyst Program** – NPower Canada  
+- **IBM Data Analyst Professional Certificate** 
+- **Microsoft Azure AI-900 Fundamentals**
 
 ---
 
-
-### 📊 GitHub Stats
-![Teenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenusunny&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teenusunny&layout=compact&theme=radical)
-
----
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
 
----
 
-### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/teenusunny/count.svg)
