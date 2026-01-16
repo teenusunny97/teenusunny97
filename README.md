@@ -1,7 +1,6 @@
  # 👋 Hi, I'm Teenu Sunny
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
----
 
 ### 📖 About Me
 - 3+ years experience in frontend development with strong problem-solving skills
