@@ -47,11 +47,9 @@ I have 3+ years of experience building interactive web applications and analyzin
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
+[![Email](https://img.shields.io/badge/Email-FF6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
 
 ---
 
-### 👀 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=teenusunny.teenusunny)
 
