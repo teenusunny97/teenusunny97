@@ -1,5 +1,5 @@
-<!-- Typing effect header in Purple -->
-![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Teenu+Sunny)
+<!-- Typing effect header in Blue -->
+![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Teenu+Sunny)
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
 ---
@@ -47,8 +47,9 @@ I have 3+ years of experience building interactive web applications and analyzin
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
-[![Email](https://img.shields.io/badge/Email-FF6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
+
 
 ---
 
