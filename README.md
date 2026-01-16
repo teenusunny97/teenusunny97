@@ -1,18 +1,18 @@
- ![Hi, I'm Teenu](https://img.shields.io/badge/Hi-I'm%20Teenu-orange?style=for-the-badge&logo=github)
-
+ # 👋 Hi, I'm Teenu Sunny
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
 ---
 
-### About Me
-- 3+ years experience in frontend development
-- Specialized in React.js, Redux, HTML, CSS, and JavaScript (ES6+)
-- Passionate about building responsive, user-friendly web applications
-- Completed **IBM Data Analyst Professional Certificate** to strengthen analytics skills
-- Enthusiastic about solving problems and building real-world projects
+### 📖 About Me
+- 3+ years experience in frontend development with strong problem-solving skills
+- Skilled in **data collection, cleaning, analysis, and visualization** using SQL, Python, Excel, and IBM Cognos Analytics
+- Developed **interactive dashboards** for insurance applications and healthcare platforms
+- Completed **IBM Data Analyst Professional Certificate** and **Microsoft Azure AI-900 Fundamentals**
+- Enthusiastic about building real-world projects and exploring data-driven insights
 
 ---
-### 🛠 Skills
+
+### 🛠 Technical Skills
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,24 +25,36 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst%20Professional%20Certificate-006699?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-006699?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Cloud & AI:**  
+![Azure AI](https://img.shields.io/badge/Microsoft%20Azure%20AI-F05139?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **IDE / Platforms:**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-**Cloud & AI:**  
-![Azure AI](https://img.shields.io/badge/Microsoft%20Azure%20AI-F05139?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+---
+
+### 🎓 Education & Certifications
+- **Junior Data Analyst Program** – NPower Canada | Toronto, ON *(Oct 2025 – Jan 2026)*  
+- **IBM Data Analyst Professional Certificate** – [Add Completion Date]  
+- **Microsoft Azure AI-900 Fundamentals** – November 2025  
 
 ---
 
 
-### Connect with Me
+### 📊 GitHub Stats
+![Teenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenusunny&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teenusunny&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
 
 ---
 
-
-- Exploring **data analytics projects** to showcase skills
-- Open to **collaborations, learning opportunities, and mentorship**
+### 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/teenusunny/count.svg)
