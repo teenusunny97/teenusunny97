@@ -1,5 +1,5 @@
 <!-- Typing effect header in Blue -->
-![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=0077B5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Teenu+Sunny)
+![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=0077B5&center=true&width=100%25&lines=Hi%2C+I'm+Teenu+Sunny)
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
 ---
