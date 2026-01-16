@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Teenu 👋
+## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
-<!--
-**teenusunny97/teenusunny97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+- 3+ years experience in frontend development
+- Specialized in React.js, Redux, HTML, CSS, and JavaScript (ES6+)
+- Passionate about building responsive, user-friendly web applications
+- Completed IBM Data Analysis course to strengthen analytics skills
+- Enthusiastic about solving problems and building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+- **Frontend:** React.js, Redux, JavaScript, HTML, CSS
+- **Data Analytics:** IBM Data Analysis
+- **Cloud & AI:** Microsoft Azure AI Fundamentals
+
+---
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
+
+---
+
+
+- Exploring **data analytics projects** to showcase skills
+- Open to **collaborations, learning opportunities, and mentorship**
