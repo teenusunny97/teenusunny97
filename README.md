@@ -53,4 +53,5 @@ I have 3+ years of experience building interactive web applications and analyzin
 ---
 
 ### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/teenusunny/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=teenusunny.teenusunny)
+
