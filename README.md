@@ -1,6 +1,5 @@
-![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=FF6600&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Teenu+Sunny+%F0%9F%91%8B;Frontend+Developer+%7C+React.js+%26+Redux;Aspiring+Data+Analyst)
-
-
+![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=FF6600&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Teenu+Sunny)
+## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
 ### 📖 About Me
 - 3+ years experience in frontend development with strong problem-solving skills
