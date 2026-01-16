@@ -28,7 +28,8 @@ I have 3+ years of experience building interactive web applications and analyzin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-006699?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM%20Cognos-006699?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-0077B5?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud & AI:**  
 ![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals-orange?style=for-the-badge)
