@@ -1,18 +1,23 @@
+<!-- Typing effect header -->
 ![Hi, I'm Teenu Sunny](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&color=FF6600&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Teenu+Sunny)
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
+---
+
 ### 📖 About Me
-- 3+ years experience in frontend development with strong problem-solving skills
-- Skilled in **data collection, cleaning, analysis, and visualization** using SQL, Python, Excel, and IBM Cognos Analytics
-- Developed **interactive dashboards** for insurance applications and healthcare platforms
-- Completed **IBM Data Analyst Professional Certificate** and **Microsoft Azure AI-900 Fundamentals**
-- Enthusiastic about building real-world projects and exploring data-driven insights
+Hi! I'm Teenu, a passionate **frontend developer and aspiring data analyst**.  
+I have 3+ years of experience building interactive web applications and analyzing data to generate actionable insights.
+
+- 💻 Skilled in **data collection, cleaning, analysis, and visualization** using SQL, Python, Excel, and IBM Cognos Analytics  
+- 📊 Developed **interactive dashboards** for insurance applications and healthcare platforms  
+- 🎓 Completed **IBM Data Analyst Professional Certificate** and **Microsoft Azure AI Fundamentals**  
+- 🌱 Enthusiastic about learning, building real-world projects, and exploring data-driven solutions  
 
 ---
 
 ### 🛠 Technical Skills
 
-**Frontend:**  
+**Frontend & Development:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +31,7 @@
 ![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-006699?style=for-the-badge&logo=ibm&logoColor=white)
 
 **Cloud & AI:**  
-![Azure AI](https://img.shields.io/badge/Microsoft%20Azure%20AI-F05139?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals-orange?style=for-the-badge)
 
 **IDE / Platforms:**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -35,15 +40,17 @@
 ---
 
 ### 🎓 Education & Certifications
-- **Junior Data Analyst Program** – NPower Canada  
-- **IBM Data Analyst Professional Certificate** 
-- **Microsoft Azure AI-900 Fundamentals**
+![NPower Canada](https://img.shields.io/badge/NPower%20Canada-Junior%20Data%20Analyst-blue?style=for-the-badge)
+![IBM](https://img.shields.io/badge/IBM-Data%20Analyst%20Professional%20Certificate-blue?style=for-the-badge)
+![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals-orange?style=for-the-badge)
 
 ---
-
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teenusunny/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teenusunny1997@gmail.com)
 
+---
 
+### 👀 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/teenusunny/count.svg)
