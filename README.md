@@ -1,5 +1,4 @@
-![Hi GIF](https://media.giphy.com/media/3o7TKP1QvN1z1qG2Io/giphy.gif) 
-![Hi, I'm Teenu](https://img.shields.io/badge/Hi-I'm%20Teenu-orange?style=for-the-badge&logo=github)
+ ![Hi, I'm Teenu](https://img.shields.io/badge/Hi-I'm%20Teenu-orange?style=for-the-badge&logo=github)
 
 ## Frontend Developer | React.js & Redux | Aspiring Data Analyst
 
