@@ -5,7 +5,7 @@
 
 ### 📖 About Me
 Passionate **frontend developer and aspiring data analyst**.  
-I have 3+ years of experience building interactive web applications and analyzing data to generate actionable insights.
+I have 4 years of experience building interactive web applications and analyzing data to generate actionable insights.
 
 - 💻 Skilled in **data collection, cleaning, analysis, and visualization** using SQL, Python, Excel, and IBM Cognos Analytics  
 - 📊 Developed **interactive dashboards** for insurance applications and healthcare platforms  
